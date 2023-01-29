@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "422952849253",
+    "project_id": "sleep-relax-63431",
+    "storage_bucket": "sleep-relax-63431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422952849253:android:f6971370e879ecf2fe9b8c",
+        "android_client_info": {
+          "package_name": "com.example.applie_sleep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422952849253-k17laicsl9m426skdfpb8a2v1ds3ui53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1lvpy-41WSQ9c4Fdo3edLaYcicRekTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422952849253-k17laicsl9m426skdfpb8a2v1ds3ui53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "422952849253-kh3j067c0pp1uarkktjcde0sstbu87aj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applieSleep"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
